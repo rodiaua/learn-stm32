@@ -1,0 +1,9 @@
+# Build output (any project subdir)
+build/
+
+# Logs
+*.log
+
+# Editor backups / vim undo files
+*~
+.*.un~
